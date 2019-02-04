@@ -16,7 +16,7 @@
 title: 形而上学，不行退学
 email: rm@rf.tn
 description: >- # this means to ignore newlines until "baseurl:"
-  mkdir /it/sucks/ && cd /it/sucks/ && mount /dev/brain /it/sucks && rm -rf /it/sucks/
+  新的一年我将继续扮演一个混吃等死的学渣，学术科研两爆炸，多谢大家支持
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rm.rf.tn" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Dakkidaze
